@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-pwloy4.juragan89alt.site/sitemap.xml
